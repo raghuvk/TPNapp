@@ -1,0 +1,11 @@
+{
+"name": "tpncalc",
+"version": "0.1.0",
+"scripts": {
+},
+"dependencies": {
+"fhirclient":"0.1.9"
+},
+"devDependencies": {
+}
+}
